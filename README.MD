@@ -7,7 +7,7 @@ This is a PHP package for the MTN's Mobile Money REST API dubbed Momo API.
 * Run the following command to clone this repo
 
 ```
-git clone https://github.com/Bascil/mpesa-api-php.git
+git clone https://github.com/Bascil/mtn-momo-api-php.git
 
 ```
 OR
