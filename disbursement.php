@@ -1,14 +1,12 @@
 <?
 
 //put your API Key and Secret in these two variables.
-define('USER_ID', 'e87dc4bc-9a50-40c4-8019-d7ef0aa59fcb'); // Consumer key
-define('API_KEY', '011f4fee83f8458f87e7d7308606299d'); // Consumer secret
-define('DISBURSEMENT_SUBSCRIPTION_KEY', '39d3fae73f8842d19c426644bf569185'); // Consumer secret
+define('USER_ID', ''); // Disbursement User ID
+define('API_KEY', ''); // Disbursement API Key
+define('DISBURSEMENT_SUBSCRIPTION_KEY', ''); // Disbursement Subscription KeyKey
 
 
-//echo get_accesstoken();
-$credentials = base64_encode(USER_ID.':'.API_KEY);
-echo $credentials;
+//Test here
 //echo disburse();
 
 //When called this function will request an Access Token 
