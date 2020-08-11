@@ -1,6 +1,6 @@
 # PHP Implementation for MTN Momo API
 
-This is a PHP package for the MTN's Mobile Money REST API dubbed Momo API.  
+This is a PHP package for the MTN's Mobile Money REST API dubbed Momo API. The official Momo documentation is available on https://momodeveloper.mtn.com/api-documentation.
 
 ## Installation
 
