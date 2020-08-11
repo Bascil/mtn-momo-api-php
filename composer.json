@@ -1,0 +1,12 @@
+{
+    "name": "bascil/mtn-momo-api-php",
+    "description": "PHP Implementation for MTN Momo API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Basil Ndonga",
+            "email": "basilndonga@gmail.com"
+        }
+    ],
+    "require": {}
+}
