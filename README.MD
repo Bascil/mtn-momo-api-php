@@ -15,6 +15,10 @@ OR
 
 - Download the source code as zipped
 
+## Linux Hosting
+
+If you need VPS or dedicated hosting, please visit this link [Server Host](https://serverhost53.com)
+
 ## Support
 
 Need support using this package:-
