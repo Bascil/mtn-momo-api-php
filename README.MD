@@ -33,6 +33,6 @@ If you wish to engage me as a developer for your project, feel free to contact m
 
 ## License
 
-This USSD Package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This Package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Happy coding!!!!!!!
